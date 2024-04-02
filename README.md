@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Inicial </h1>
     <p align="center"> Sobre mim </p>
 
-#### *Meu nome é Alexandre, tenho 18 anos e esse é meu primeiro projeto no mundo da programação. Estou pouco menos de 2 semanas programando e essa experiência está sendo incrível.*
+#### *Primeiro projeto em programação; estou pouco menos de 2 semanas programando e essa experiência está sendo incrível.*
 
 # 
 
